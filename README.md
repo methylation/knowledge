@@ -15,3 +15,6 @@ perl parse_json.pl meta.json meta.txt
 
 meta.json 从GDC下载的meta文件
 meta.txt 输出文件名
+
+
+####3. [GDC_TCGA数据下载说明](http://fromwiz.com/share/s/1-7RP62s-QrJ2Vbofn13TuxT2mbrss3fwAwJ2yYclx3aphjB)
